@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\finch\\Documents\\code folder\\github\\Escape-The-Dungeon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0341096B-608B-37DA-BB18-E568A847B867}|Assembly-CSharp.csproj|c:\\users\\finch\\documents\\code folder\\github\\escape-the-dungeon\\assets\\scripts\\levelgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0341096B-608B-37DA-BB18-E568A847B867}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelGeneration.cs",
+              "DocumentMoniker": "C:\\Users\\finch\\Documents\\code folder\\github\\Escape-The-Dungeon\\Assets\\Scripts\\LevelGeneration.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelGeneration.cs",
+              "ToolTip": "C:\\Users\\finch\\Documents\\code folder\\github\\Escape-The-Dungeon\\Assets\\Scripts\\LevelGeneration.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelGeneration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:47:13.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
