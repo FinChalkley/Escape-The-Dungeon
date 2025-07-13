@@ -18,6 +18,7 @@ TagManager:
   - South
   - East
   - West
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -25,9 +26,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - whatIsGround
+  - whatIsEnemy
+  - whatIsExit
   - 
   - 
   - 

@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\finch\\Documents\\code folder\\github\\Escape-The-Dungeon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0341096B-608B-37DA-BB18-E568A847B867}|Assembly-CSharp.csproj|c:\\users\\finch\\documents\\code folder\\github\\escape-the-dungeon\\assets\\scripts\\levelgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0341096B-608B-37DA-BB18-E568A847B867}|Assembly-CSharp.csproj|c:\\users\\finch\\documents\\code folder\\github\\escape-the-dungeon\\assets\\scripts\\playerscripts\\gunscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0341096B-608B-37DA-BB18-E568A847B867}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscripts\\gunscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0341096B-608B-37DA-BB18-E568A847B867}|Assembly-CSharp.csproj|c:\\users\\finch\\documents\\code folder\\github\\escape-the-dungeon\\assets\\scripts\\playerscripts\\exitlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0341096B-608B-37DA-BB18-E568A847B867}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscripts\\exitlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0341096B-608B-37DA-BB18-E568A847B867}|Assembly-CSharp.csproj|C:\\Users\\finch\\Documents\\code folder\\github\\Escape-The-Dungeon\\assets\\scripts\\levelgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0341096B-608B-37DA-BB18-E568A847B867}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "gunScript.cs",
+              "DocumentMoniker": "C:\\Users\\finch\\Documents\\code folder\\github\\Escape-The-Dungeon\\Assets\\Scripts\\playerScripts\\gunScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\playerScripts\\gunScript.cs",
+              "ToolTip": "C:\\Users\\finch\\Documents\\code folder\\github\\Escape-The-Dungeon\\Assets\\Scripts\\playerScripts\\gunScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\playerScripts\\gunScript.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA0wEoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:56:54.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exitLevel.cs",
+              "DocumentMoniker": "C:\\Users\\finch\\Documents\\code folder\\github\\Escape-The-Dungeon\\Assets\\Scripts\\playerScripts\\exitLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\playerScripts\\exitLevel.cs",
+              "ToolTip": "C:\\Users\\finch\\Documents\\code folder\\github\\Escape-The-Dungeon\\Assets\\Scripts\\playerScripts\\exitLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\playerScripts\\exitLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:52:00.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LevelGeneration.cs",
               "DocumentMoniker": "C:\\Users\\finch\\Documents\\code folder\\github\\Escape-The-Dungeon\\Assets\\Scripts\\LevelGeneration.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LevelGeneration.cs",
               "ToolTip": "C:\\Users\\finch\\Documents\\code folder\\github\\Escape-The-Dungeon\\Assets\\Scripts\\LevelGeneration.cs",
               "RelativeToolTip": "Assets\\Scripts\\LevelGeneration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwFYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T14:47:13.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T14:47:13.248Z"
             }
           ]
         }
